@@ -1,0 +1,18 @@
+{
+  "name": "vollk/interval_parser",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "vollk",
+      "email": "vollk123@yandex.ru"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "4.1.1"
+  },
+  "autoload": {
+    "psr-4": {"IntervalParser\\": "src/"}
+  }
+}
